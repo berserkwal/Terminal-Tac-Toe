@@ -22,6 +22,4 @@ A terminal based Tic-Tac-Toe game build entirely in Python. The code might be a 
 <img src="/images/5.png" width="45%" height="45%">                    <img src="/images/6.png" width="45%" height="45%">
 
 
-<img src="/images/7.png" width="45%" height="45%">
-
-(More screenshots to be added soon...)
+<img src="/images/7.png" width="45%" height="45%">                    (More screenshots to be added soon...)
