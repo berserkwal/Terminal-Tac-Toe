@@ -24,6 +24,6 @@ def twoplayer(player1, player2):
 			vs2player.game(ret[0], ret[1])
 		elif choice3 == 3:
 			vscpu.game()
-		elif choice3 == 3:
+		elif choice3 == 4:
 			print("\nHope you had fun. Come again another time.")
 			exit()
